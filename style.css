@@ -35,13 +35,13 @@ img{vertical-align: top;}
 
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 /*--------------------*/
-header{
-	background-image: url(../BOBL.jpg);
+/* header{
+	background-image: url(../BOBL.jpg); 
 	background-repeat: no-repeat;
     background-position: top center ;
 	background-size: contain;
-	padding: 200px 0;
-}
+	padding: 200px 0; */
+
 h1{
 	font-style: normal;
 	font-weight: normal;
@@ -60,6 +60,9 @@ p{font-style: normal;
 }
 .description{
 	background-color: darkkhaki;
+}
+.body{
+	background-color: aquamarine;
 }
 
 
